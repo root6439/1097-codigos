@@ -1,0 +1,16 @@
+.primary-button {
+  background-color: rgb(128, 128, 236);
+  color: #000000;
+}
+
+.secondary-button {
+  border: 1px solid rgb(128, 128, 236);
+  color: rgb(128, 128, 236);
+  background-color: transparent;
+}
+
+.ternary-button {
+  color: rgb(128, 128, 236);
+  background-color: transparent;
+
+}

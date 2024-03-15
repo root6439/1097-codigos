@@ -1,0 +1,12 @@
+* {
+  font-family: sans-serif;
+}
+
+.icon-button {
+  background-color: transparent;
+  border: none;
+}
+
+.c-pointer {
+  cursor: pointer;
+}

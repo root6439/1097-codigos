@@ -1,0 +1,49 @@
+{
+  "produtos": [
+    {
+      "id": "2",
+      "name": "TV",
+      "price": 5000
+    },
+    {
+      "id": "3",
+      "name": "Celular",
+      "price": 9000
+    },
+    {
+      "id": "4",
+      "name": "Sofá",
+      "price": 1000
+    },
+    {
+      "id": "5",
+      "name": "Sofá king size",
+      "price": 10000
+    },
+    {
+      "id": "6",
+      "name": "Monitor",
+      "price": 600
+    },
+    {
+      "id": "7",
+      "name": "Cadeira gamer",
+      "price": 600
+    },
+    {
+      "id": "8",
+      "name": "asdasd",
+      "price": 3555
+    },
+    {
+      "id": "a1f0",
+      "name": "fsdfsdf",
+      "price": 54654
+    },
+    {
+      "id": "1e53",
+      "name": "Sofá",
+      "price": 5000
+    }
+  ]
+}

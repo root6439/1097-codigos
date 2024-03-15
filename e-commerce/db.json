@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "Smartwatch",
+      "price": 1500,
+      "id": "2968"
+    },
+    {
+      "id": "6fb7",
+      "name": "Cadeira gamer",
+      "price": 700
+    },
+    {
+      "id": "c53c",
+      "name": "Teclado RGB",
+      "price": 100
+    },
+    {
+      "id": "5b80",
+      "name": "Cama",
+      "price": 5000
+    },
+    {
+      "id": "a8ff",
+      "name": "Sofá",
+      "price": 1000
+    },
+    {
+      "id": "2dfa",
+      "name": "Lampada",
+      "price": 1500
+    },
+    {
+      "id": "7eba",
+      "name": "Cadeira normal",
+      "price": 100
+    },
+    {
+      "id": "57e0",
+      "name": "Cadeira de escritório",
+      "price": 500
+    }
+  ]
+}
